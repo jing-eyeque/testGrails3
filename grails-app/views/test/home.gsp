@@ -20,6 +20,7 @@
         <g:render template="part" />
     </div>
 
+
     %{--<g:if test="${editingTest == true}">--}%
 
         %{--<g:remoteLink controller="test" action="saveSubject" update="overview">--}%
@@ -37,6 +38,7 @@
     %{--<g:remotelink controller="test" action="editSubject" update="test overview">--}%
         %{--<input type="button" value="Edit" class="button"/>--}%
     %{--</g:remotelink>--}%
+
 </g:form>
 
 </body>

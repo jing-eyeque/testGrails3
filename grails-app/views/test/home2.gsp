@@ -8,11 +8,8 @@
 </head>
 
 <body>
-
     <div id="overview">
         <g:render template="part2" />
     </div>
-
-
 </body>
 </html>
